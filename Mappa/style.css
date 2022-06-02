@@ -85,7 +85,7 @@ html {
 }
 
 #image-1 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.256), rgba(0, 0, 0, 0.25)), url("file:///C:/Users/sebas/OneDrive/Desktop/New%20folder%20(2)/images/Untitled.png");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.256), rgba(0, 0, 0, 0.25)), url("images/Untitled.png");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
